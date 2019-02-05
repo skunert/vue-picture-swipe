@@ -1,5 +1,6 @@
 <template>
   <div>
+    <div>Hello World</div>
     <div class="my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
 
       <figure
